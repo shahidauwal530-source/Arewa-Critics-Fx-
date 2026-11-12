@@ -1,0 +1,8 @@
+{
+  "name": "AREWA CRITICS - Forex Signal Bot - WAT Engine - PRO",
+  "description": "Professional Forex Signal Bot with WAT Engine, live XAU/USD gold price tracking, 4-check day trade validation, automated 6-tier pip and risk calculation, and real-time execution alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
